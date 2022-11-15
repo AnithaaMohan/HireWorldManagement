@@ -1,0 +1,2 @@
+11-03-2022 14:19:33.070 INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator- HHH10001001: Connection properties: {password=****, user=root}
+11-03-2022 14:19:33.084 INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator- HHH10001003: Autocommit mode: false

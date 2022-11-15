@@ -1,0 +1,17 @@
+10-19-2022 18:32:35.541 ERROR com.ideas2it.logger.HireWorldLogger displayError- Enter Only Integers
+10-19-2022 18:32:40.837 ERROR com.ideas2it.logger.HireWorldLogger displayError- Enter Only Integers
+10-19-2022 18:46:43.739 ERROR com.ideas2it.logger.HireWorldLogger displayError- Enter Only Integers
+10-19-2022 18:48:08.692 ERROR com.ideas2it.logger.HireWorldLogger displayError- Wrong format !!! Enter the Correct format
+10-19-2022 18:48:56.397 ERROR com.ideas2it.logger.HireWorldLogger displayError- Unknown column 'isdeleted' in 'field list'
+10-19-2022 18:50:37.168 ERROR com.ideas2it.logger.HireWorldLogger displayError- Enter 'M' for male / 'F' for female / 'O' for other
+10-19-2022 19:06:16.932 ERROR com.ideas2it.logger.HireWorldLogger displayError- Enter a valid Long input
+10-19-2022 19:06:42.609 ERROR com.ideas2it.logger.HireWorldLogger displayError- Enter a valid Long input
+10-19-2022 23:38:29.586 ERROR com.ideas2it.logger.HireWorldLogger displayError- Applicant not Assigned
+10-19-2022 23:38:57.312 ERROR com.ideas2it.logger.HireWorldLogger displayError- Applicant not Assigned
+10-19-2022 23:39:20.045 ERROR com.ideas2it.logger.HireWorldLogger displayError- Unknown column 'isdeleted' in 'field list'
+10-19-2022 23:39:38.156 ERROR com.ideas2it.logger.HireWorldLogger displayError- Unknown column 'isdeleted' in 'field list'
+10-20-2022 18:27:51.434 ERROR com.ideas2it.logger.HireWorldLogger displayError- Enter Only Integers
+10-20-2022 18:30:02.356 ERROR com.ideas2it.logger.HireWorldLogger displayError- Enter Only Integers
+10-20-2022 18:30:21.867 ERROR com.ideas2it.logger.HireWorldLogger displayError- Enter a valid Long input
+10-20-2022 18:30:29.669 ERROR com.ideas2it.logger.HireWorldLogger displayError- Wrong format !!! Enter the Correct format
+10-20-2022 18:31:08.468 ERROR com.ideas2it.logger.HireWorldLogger displayError- Cannot add or update a child row: a foreign key constraint fails (`hireworld`.`applicant_recruiter`, CONSTRAINT `applicant_recruiter_ibfk_2` FOREIGN KEY (`recruiter_id`) REFERENCES `recruiter` (`id`))

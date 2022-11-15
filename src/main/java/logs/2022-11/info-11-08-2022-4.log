@@ -1,0 +1,2 @@
+11-08-2022 20:22:52.555 INFO  org.hibernate.annotations.common.reflection.java.JavaReflectionManager <clinit>- HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+11-08-2022 20:22:52.753 INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator- HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/hireworldmanagement]

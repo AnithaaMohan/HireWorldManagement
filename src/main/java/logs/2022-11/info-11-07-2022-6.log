@@ -1,0 +1,2 @@
+11-07-2022 20:20:45.766 INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl$PooledConnections <init>- HHH000115: Hibernate connection pool size: 20 (min=1)
+11-07-2022 20:20:46.312 INFO  org.hibernate.dialect.Dialect <init>- HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect

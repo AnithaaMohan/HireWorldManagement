@@ -1,0 +1,2 @@
+11-07-2022 16:18:32.286 INFO  org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator initiateService- HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+11-07-2022 20:20:45.038 INFO  org.hibernate.Version logVersion- HHH000412: Hibernate ORM core version 5.6.12.Final

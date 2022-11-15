@@ -1,0 +1,20 @@
+10-31-2022 21:10:47.880 ERROR com.ideas2it.logger.HireWorldLogger displayError- No Details Found
+10-31-2022 21:11:07.570 ERROR com.ideas2it.logger.HireWorldLogger displayError- No Details Found
+10-31-2022 21:11:59.106 ERROR com.ideas2it.logger.HireWorldLogger displayError- No Details Found
+10-31-2022 21:12:03.815 ERROR com.ideas2it.logger.HireWorldLogger displayError- No Details Found
+10-31-2022 21:26:16.591 ERROR com.ideas2it.logger.HireWorldLogger displayError- No Details Found
+11-01-2022 12:06:20.188 ERROR com.ideas2it.logger.HireWorldLogger displayError- No Details Found
+11-01-2022 12:15:51.054 ERROR com.ideas2it.logger.HireWorldLogger displayError- No Details Found
+11-01-2022 12:16:26.852 ERROR com.ideas2it.logger.HireWorldLogger displayError- Wrong format !!! Enter your 10 digit number
+11-01-2022 12:16:40.819 ERROR com.ideas2it.logger.HireWorldLogger displayError- Wrong format !!! Enter your 10 digit number
+11-01-2022 12:16:52.662 ERROR com.ideas2it.logger.HireWorldLogger displayError- Wrong format !!! Enter your 10 digit number
+11-01-2022 12:16:58.468 ERROR com.ideas2it.logger.HireWorldLogger displayError- Wrong format !!! Enter your 10 digit number
+11-01-2022 12:18:27.620 ERROR com.ideas2it.logger.HireWorldLogger displayError- No Details Found
+11-02-2022 21:54:28.879 ERROR com.ideas2it.logger.HireWorldLogger displayError- No Details Found
+11-02-2022 22:46:24.158 ERROR com.ideas2it.logger.HireWorldLogger displayError- Enter Only Integers
+11-02-2022 22:46:26.187 ERROR com.ideas2it.logger.HireWorldLogger displayError- Enter Only Integers
+11-03-2022 01:12:46.469 ERROR com.ideas2it.logger.HireWorldLogger displayError- Enter Only Integers
+11-03-2022 01:15:22.974 ERROR com.ideas2it.logger.HireWorldLogger displayError- Enter Only Integers
+11-03-2022 01:15:47.448 ERROR com.ideas2it.logger.HireWorldLogger displayError- Wrong format !!! Enter your 10 digit number
+11-03-2022 01:15:54.074 ERROR com.ideas2it.logger.HireWorldLogger displayError- Wrong format !!! Enter your 10 digit number
+11-03-2022 01:17:12.851 ERROR com.ideas2it.logger.HireWorldLogger displayError- You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'from recruiter Join applicant_recruiter on recruiter.id = applicant_recruiter.re' at line 1

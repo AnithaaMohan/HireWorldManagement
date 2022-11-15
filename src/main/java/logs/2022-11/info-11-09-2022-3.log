@@ -1,0 +1,2 @@
+11-09-2022 10:23:13.642 INFO  org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator initiateService- HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+11-09-2022 10:23:16.499 INFO  com.ideas2it.logger.HireWorldLogger displayInfo- Displaying all the Recruiters

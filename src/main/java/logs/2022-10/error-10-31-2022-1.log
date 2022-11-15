@@ -1,0 +1,18 @@
+10-20-2022 18:35:12.019 ERROR com.ideas2it.logger.HireWorldLogger displayError- Enter Only Integers
+10-27-2022 10:33:55.856 ERROR com.ideas2it.logger.HireWorldLogger displayError- Unknown column 'id' in 'field list'
+10-27-2022 10:37:58.286 ERROR com.ideas2it.logger.HireWorldLogger displayError- Unknown column 'id' in 'field list'
+10-27-2022 10:54:00.835 ERROR com.ideas2it.logger.HireWorldLogger displayError- You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= 2 and is_deleted = false' at line 1
+10-27-2022 11:03:38.816 ERROR com.ideas2it.logger.HireWorldLogger displayError- Wrong format !!! Enter the Correct format
+10-27-2022 11:04:13.699 ERROR com.ideas2it.logger.HireWorldLogger displayError- Wrong format !!! Enter the Correct format
+10-27-2022 11:04:33.621 ERROR com.ideas2it.logger.HireWorldLogger displayError- Enter Only Integers
+10-27-2022 11:06:12.053 ERROR com.ideas2it.logger.HireWorldLogger displayError- Enter Only Integers
+10-27-2022 11:12:09.137 ERROR com.ideas2it.logger.HireWorldLogger displayError- Enter Only Integers
+10-27-2022 11:12:18.791 ERROR com.ideas2it.logger.HireWorldLogger displayError- Enter Only Integers
+10-27-2022 11:13:48.833 ERROR com.ideas2it.logger.HireWorldLogger displayError- Enter Only Integers
+10-27-2022 11:13:59.394 ERROR com.ideas2it.logger.HireWorldLogger displayError- Enter Only Integers
+10-27-2022 11:14:05.939 ERROR com.ideas2it.logger.HireWorldLogger displayError- Enter Only Integers
+10-28-2022 18:39:36.805 ERROR com.ideas2it.logger.HireWorldLogger displayError- Wrong format !!! Enter your 10 digit number
+10-28-2022 18:44:17.994 ERROR com.ideas2it.logger.HireWorldLogger displayError- Enter Only Integers
+10-28-2022 18:44:20.181 ERROR com.ideas2it.logger.HireWorldLogger displayError- Enter Only Integers
+10-31-2022 11:44:52.893 ERROR com.ideas2it.logger.HireWorldLogger displayError- Person is not found
+10-31-2022 15:53:37.819 ERROR com.ideas2it.logger.HireWorldLogger displayError- Enter Only Integers
